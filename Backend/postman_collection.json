@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "6f1926c4-873a-4ee9-93c5-ea12b78799e6",
+    "name": "AI Chat Project",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "53861489",
+    "_collection_link": "https://go.postman.co/collection/53861489-6f1926c4-873a-4ee9-93c5-ea12b78799e6?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET Health Check",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GET Conversations",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "POST New Conversation",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "POST Chat",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GET Conversation Messages",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
